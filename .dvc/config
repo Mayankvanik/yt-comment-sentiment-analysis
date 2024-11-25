@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = /home/logicrays/Documents/dvc_temp/ty_analysis
+    url = s3://mack44-mlflow
