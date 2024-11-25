@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = s3://mack44-mlflow
+    url = s3://mackk44new
